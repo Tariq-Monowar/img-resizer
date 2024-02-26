@@ -1,5 +1,3 @@
-// util/imageresizer.ts
-
 export const resizeImage = (
     file: File,
     maxWidth: number,
